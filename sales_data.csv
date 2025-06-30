@@ -1,0 +1,9 @@
+Date,Region,Product,Quantity,Price
+2024-01-01,North,Widget,10,25
+2024-01-01,South,Gadget,5,30
+2024-01-02,North,Widget,15,25
+2024-01-02,East,Gadget,8,30
+2024-01-03,South,Widget,12,25
+2024-01-03,North,Gadget,7,30
+2024-01-04,East,Widget,10,25
+2024-01-04,West,Gadget,9,30
